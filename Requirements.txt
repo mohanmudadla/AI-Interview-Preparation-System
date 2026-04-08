@@ -1,3 +1,7 @@
 streamlit
 pdfplumber
 scikit-learn
+numpy
+pandas
+nltk
+spacy
